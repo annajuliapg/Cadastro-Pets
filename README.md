@@ -2,6 +2,7 @@
 Projeto de Estrutura de Dados-A
 
 DESCRIÇÃO
+
 Uma instituição recebe e cuida de animais abandonados e vítimas de maus tratos, e posteriormente encaminha-os para adoção. Você deve ajudar essa instituição, facilitando a intermediação com pessoas que poderiam adotar os animais.
 
 Para isso, o primeiro passo é prover um cadastro de animais disponíveis para adoção. O cadastro deve ser implementado através de uma lista ligada com diferentes funções para que as pessoas encontrem o pet mais adequado para adoção. O cadastro deve conter, no mínimo, as seguintes informações sobre cada pet: nome, espécie, raça, sexo, idade (ou data de nascimento) e características gerais (físicas ou de comportamento).
